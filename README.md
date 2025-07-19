@@ -1,12 +1,14 @@
-# DLNLP
 
-##  Deep Learning for NLP (E0 334)
 
-This repository contains all assignments for the E0 334 course: Deep Learning for NLP.
 
-Assignment	Highlights	References/Datasets	Due	Submission Link
-1	Pre-trained word embeddings (Word2Vec, GloVe, fastText); sentence vector averaging; t-SNE visualization; DAN classifier	Word2Vec, GloVe, fastText, DAN Paper	16 Aug	Submit
-2	Sentiment analysis (movie reviews, binary classification) using deep learning	“PapersForDiscussion” file (papers 5–10)	6 Sep	Submit
-4a	Date translation task (seq2seq with attention); attention visualization	Bahdanau et al., Yang et al.	27 Sep	Submit
-4b	(To be announced)	-	4 Oct	(TBA)
-6	Reverse dictionary (English); word alignment (EN-DE); cross-lingual word prediction	WantWords, BERT-RD, Zenkel et al.	27 Nov	(TBA)
+
+
+## Deep Learning for NLP (E0 334)
+
+| Assignment No. | Aim                                                                | Folder Name      |
+|:--------------:|:-------------------------------------------------------------------|:----------------|
+| 1              | Text classification using pre-trained word embeddings and DAN       | Assignment_1    |
+| 2              | Sentiment classification of movie reviews with deep learning        | Assignment_2    |
+| 4a             | Date translation using seq2seq with attention and visualization     | Assignment_4/Part_a |
+| 4b             | (To be announced)                                                  | Assignment_4/Part_b |
+| 6              | Reverse dictionary and cross-lingual word prediction (EN-DE)        | Assignment_6    |
